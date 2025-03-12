@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 </div>
 
-# 🧑‍🏫 Time
+# 🧑‍🏫 Instrutor(es)
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/846709?v=4" width=115><br><sub>Victorino Vila</sub>](https://github.com/geonnave/) | 
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
