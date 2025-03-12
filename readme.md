@@ -25,5 +25,5 @@
 
 # 🧑‍🏫 Time
 
-| [<img loading="victorino" src="https://avatars.githubusercontent.com/u/846709?v=4" width=115><br><sub>Victorino Vila</sub>](https://github.com/geonnave/) | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/846709?v=4" width=115><br><sub>Victorino Vila</sub>](https://github.com/geonnave/) | 
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
