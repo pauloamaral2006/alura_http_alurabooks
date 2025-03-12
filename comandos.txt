@@ -1,0 +1,38 @@
+nslookup google.com = buscar o endereço ip de um determinado domínio
+
+------
+
+telnet localhost 8000
+
+------
+
+GET  / HTTP/1.1
+
+------
+
+POST /public/login HTTP/1.1
+Content-Type: application/json
+Content-length: 45
+
+{email: "pauloamaral2006@yahoo.com.br", senha: "123"}
+
+------
+
+Wireshark = Programa para monitorar requisições
+
+------
+
+openssl req -x509 -sha256 -nodes -days 365 -newkey rsa:2048 -keyout server.key -out server.crt = gera a chave privada e o certificado
+
+------
+
+cat server.crt = exibe os dados do certificado
+
+------
+
+openssl x509 -in server.crt -text = exibe os dados do certificado mais legível
+
+------
+
+openssl rsa -in server.key -text -noout = exibe os dados da chave mais legível
+
