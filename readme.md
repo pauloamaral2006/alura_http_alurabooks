@@ -5,6 +5,7 @@
 
 ## 📘Ementa
 
+### HTTP : Entendendo a web por baixo dos panos
 - Compreender a arquitetura e os conceitos fundamentais do protocolo HTTP
 - Implementar o HTTPS para proteger os dados de uma aplicação durante a comunicação na web
 - Explorar os principais avanços trazidos pelo HTTP/2 e HTTP/3 para otimizar a performance
